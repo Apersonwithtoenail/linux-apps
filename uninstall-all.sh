@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -e
-for id in quillinks paperruner asciigifer lyrical; do
+for id in quillinks paperruner asciigifer lyrical lsm termfetch echoterm moodterm familiarterm wallflow; do
     rm -f "$HOME/.local/bin/$id"
     rm -f "$HOME/.local/share/applications/$id.desktop"
     rm -f "$HOME/.local/share/icons/hicolor/scalable/apps/$id.svg"

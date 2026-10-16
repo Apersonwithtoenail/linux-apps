@@ -11,6 +11,11 @@ One-command installer for all of Apersonwithtoenail's Linux tools.
 | [ACSIIGIFER](https://github.com/Apersonwithtoenail/ACSIIGIFER) | ASCII-art GIF player | GTK3 + chafa |
 | [Lyrical](https://github.com/Apersonwithtoenail/Lyrical) | Terminal live lyrics | Python |
 | [Listenermerge](https://github.com/Apersonwithtoenail/Listenermerge) | Unify Last.fm / Spotify / YT Music → ListenBrainz | Python |
+| [TermFetch](https://github.com/Apersonwithtoenail/TermFetch) | Fast system info — 3 variants, 10 themes | Python |
+| [EchoHis](https://github.com/Apersonwithtoenail/EchoHis) | Time-capsule shell history | Python |
+| [Moodkonsole](https://github.com/Apersonwithtoenail/Moodkonsole) | Konsole background hue shifts with your music | Python |
+| [FamiliarGoof](https://github.com/Apersonwithtoenail/FamiliarGoof) | ASCII creature that reacts to typing / music / CPU | Python |
+| [wallflow](https://github.com/Apersonwithtoenail/wallflow) | Music-reactive live wallpaper | Python |
 
 ## Install
 
