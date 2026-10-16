@@ -10,6 +10,7 @@ One-command installer for all of Apersonwithtoenail's Linux tools.
 | [PaperRuner](https://github.com/Apersonwithtoenail/PaperRuner) | Live wallpaper manager | GTK3 + mpv |
 | [ACSIIGIFER](https://github.com/Apersonwithtoenail/ACSIIGIFER) | ASCII-art GIF player | GTK3 + chafa |
 | [Lyrical](https://github.com/Apersonwithtoenail/Lyrical) | Terminal live lyrics | Python |
+| [Listenermerge](https://github.com/Apersonwithtoenail/Listenermerge) | Unify Last.fm / Spotify / YT Music → ListenBrainz | Python |
 
 ## Install
 
