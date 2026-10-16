@@ -10,4 +10,4 @@ for name in QuillInks PaperRuner ACSIIGIFER Lyrical Listenermerge; do
     [ -x "$dir/install.sh" ] && (cd "$dir" && ./install.sh) || echo "   no install.sh"
     echo
 done
-echo "✅ All installed: quillinks · paperruner · asciigifer · lyrical"
+echo "✅ All installed: quillinks · paperruner · asciigifer · lyrical · lsm"
